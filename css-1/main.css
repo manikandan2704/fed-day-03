@@ -1,0 +1,48 @@
+.container {
+    width: 1250px;
+    margin: auto;
+    outline: solid 2px yellow;
+}
+.header-flex {
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+}
+.banner-flex{
+  display: flex;
+  justify-content: space-evenly;
+;
+}
+.banner-flex .image{
+    height: 300px;
+    width: 50%;
+    outline: solid 2px red; 
+}
+.ourgoals-flex{
+    display:flex;
+    justify-content: space-evenly;
+}
+.ourgoals-flex .ourmission{
+    height: 300px;
+    width: 33.33%;
+    outline: solid 2px black;
+}
+.faq-flex{
+    height: 300px;
+    line-height: 50px;
+}
+.fab-flex .number{
+height: 50px;
+}
+.contact-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.contact-flex .contact{
+    height: 300px;
+    width:50%;
+    outline: solid 2px blue;
+}
+.legal-flex{
+    height: 200px;
+}
