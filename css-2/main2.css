@@ -1,0 +1,90 @@
+.container {
+    width: 1250px;
+    margin: auto;
+    outline: solid 2px red;
+    
+}
+.quickcontact-flex{
+    display: flex;
+    height: 50px;
+}
+.header-flex{
+    display: flex;
+    height: 50px;
+}
+.banner-flex{
+    display: flex;
+    height: 150px;
+    
+}
+.features-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.features-flex .features{
+    height: 300px;
+    width: 33.33%;
+    outline: solid 2px black;
+}
+.about-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.about-flex .about{
+    height: 300px;
+    width: 50%;
+    outline: solid 2px blueviolet
+}
+.product-flex{
+     display: flex;
+     flex-wrap: wrap;
+}
+.product-flex .product{
+    height:300px;
+    width: 33.33%;
+    flex-wrap: wrap;
+    outline: 2px solid green
+}
+.ourclients-flex{
+    display: flex;
+    height: 200px;
+}
+.services-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.services-flex .services{
+    height:300px;
+    width: 33.33%;
+    flex-wrap: wrap;
+    outline: 2px solid black
+}
+.calltoaction-flex{
+    display: flex;
+    height: 150px;
+}
+.portofolio-flex{
+    display: flex;
+    height: 150px
+}
+.team-flex{
+    display: flex;
+    height: 150px;
+}
+.contact-flex{
+    display:flex;
+    justify-content: space-evenly;
+}
+.contact-flex .contact{
+    height:300px;
+    width:50%;
+    outline:2px solid orangered
+}
+.footer-flex{
+    display: flex;
+    height: 150px;
+}
+.legel-flex{
+    display: flex;
+    height:150px;
+}
