@@ -1,0 +1,32 @@
+.container{
+    width: 1250px;
+    outline: 2px solid blue;
+    margin: auto;
+    height: 300px;    
+}
+.contactus-flex{
+    display: flex;
+    justify-content: space-around;
+}
+.contactus-flex .contact{
+    width: 33.33%;
+    outline: 2px solid red;
+    height:300px;
+    background-color: lightsalmon;
+}
+.banner-flex{
+    display: flex;
+}
+.banner-flex .lion{
+    background-color: lightgrey;
+    height: 300px;
+    width: 1250px;
+}
+.legel-flex{
+    display: flex;
+}
+.legel-flex .tiger{
+    background-color: lightgray;
+    height: 300px;
+    width: 1250px;
+}

@@ -65,7 +65,7 @@
 }
 .portofolio-flex{
     display: flex;
-    height: 150px
+    height: 150px;
 }
 .team-flex{
     display: flex;
@@ -78,7 +78,7 @@
 .contact-flex .contact{
     height:300px;
     width:50%;
-    outline:2px solid orangered
+    outline:2px solid orangered;
 }
 .footer-flex{
     display: flex;
